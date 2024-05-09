@@ -1,0 +1,14 @@
+package spring.training.artifacts;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class Employee {
+int empid;
+String ename;
+
+}
