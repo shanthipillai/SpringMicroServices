@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+ 
+accounts:
+  message: "Welcome to PROD-Config EazyBank accounts related to local API's"
+  contactDetails: 
+    name: "Raymond -Developer"
+    email: "raymond@gmail.com"
+  onCallSupport: 
+    -(555) 555-123-1234
+    -(555) 523-134-3456

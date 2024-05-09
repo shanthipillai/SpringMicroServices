@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.gatewayserver.filter&apos; to &apos;com.gatewayserver.filters&apos;&#x0D;&#x0A;- Original project: &apos;gatewayserver&apos;&#x0D;&#x0A;- Original element: &apos;gatewayserver/src/main/java/com.gatewayserver.filter&apos;&#x0D;&#x0A;- Renamed element: &apos;gatewayserver/src/main/java/com.gatewayserver.filters&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.gatewayserver.filter&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gatewayserver.filter" name="com.gatewayserver.filters" qualified="false" references="true" stamp="1714383053730" textual="false" version="1.0"/>
+</session>

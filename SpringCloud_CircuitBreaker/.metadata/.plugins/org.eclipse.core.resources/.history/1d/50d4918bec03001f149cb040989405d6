@@ -1,0 +1,21 @@
+package com.eazybytes.accounts.service.impl;
+
+import com.eazybytes.accounts.dto.CustomerDetailsDto;
+import com.eazybytes.accounts.repository.AccountsRepository;
+import com.eazybytes.accounts.repository.CustomerRepository;
+import com.eazybytes.accounts.service.ICustomerService;
+import com.eazybytes.accounts.service.client.CardsFeignClient;
+import com.eazybytes.accounts.service.client.LoansFeignClient;
+
+public class CustomerServiceImpl implements ICustomerService {
+private AccountsRepository accountsRepository;
+private CustomerRepository customerRepository;
+private CardsFeignClient cardsFeignClient;
+private LoansFeignClient loansfeignClient;
+	@Override
+	public CustomerDetailsDto fetchCustomerDetails(String mobileNumber) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

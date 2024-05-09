@@ -1,0 +1,11 @@
+build:
+ version: "2.0"
+ 
+accounts:
+  message: "Welcome to PROD-QA EazyBank accounts related to local API's"
+  contactDetails: 
+    name: "Smitha Roy -Developer"
+    email: "smitha@gmail.com"
+  onCallSupport: 
+    -(555) 555-123-1234
+    -(555) 523-134-3456

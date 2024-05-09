@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+cards:
+  message: "Welcome to Config-PROD EazyBank Cards related to local API's"
+  contactDetails: 
+    name: "JohnDoe -Developer"
+    email: "shanthipillai@gmail.com"
+  onCallSupport: 
+    -(555) 555-123-1234
+    -(555) 523-134-3456
+      
